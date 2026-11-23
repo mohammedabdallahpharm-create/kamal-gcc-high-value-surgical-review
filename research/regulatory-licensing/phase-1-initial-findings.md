@@ -6,7 +6,7 @@
 
 ## Executive finding
 
-The proposed “Second Opinion TPA” concept must not be treated as one undifferentiated activity. The regulatory perimeter changes depending on whether the entity:
+The proposed Kamal GCC service model must not be treated as one undifferentiated activity. The regulatory perimeter changes depending on whether the entity:
 
 1. provides a clinical second opinion;
 2. administers health-insurance claims or delegated payer functions;
